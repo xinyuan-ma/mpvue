@@ -12,8 +12,9 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less" scoped>
 .card {
+  text-align: center;
   padding: 10px;
 }
 </style>

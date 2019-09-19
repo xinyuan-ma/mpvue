@@ -1,9 +1,10 @@
 {
   "pages": [
+    "pages/test/main",
     "pages/index/main",
     "pages/logs/main",
     "pages/counter/main",
-    "pages/test/main",
+
     "pages/yuan/main",
     "pages/xin/main"
   ],
@@ -29,7 +30,13 @@
       "pagePath": "pages/logs/main",
       "iconPath": "static/tabs/orders.png",
       "selectedIconPath": "static/tabs/orders-active.png"
-    }],
+    },{
+      "text": "test",
+      "pagePath": "pages/test/main",
+      "iconPath": "static/tabs/orders.png",
+      "selectedIconPath": "static/tabs/orders-active.png"
+    }
+    ],
 
     "items": [{
       "name": "首页",
