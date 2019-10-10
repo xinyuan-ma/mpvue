@@ -4,7 +4,6 @@
     "pages/index/main",
     "pages/logs/main",
     "pages/counter/main",
-
     "pages/yuan/main",
     "pages/xin/main"
   ],
@@ -33,6 +32,11 @@
     },{
       "text": "test",
       "pagePath": "pages/test/main",
+      "iconPath": "static/tabs/orders.png",
+      "selectedIconPath": "static/tabs/orders-active.png"
+    },{
+      "text": "xin",
+      "pagePath": "pages/xin/main",
       "iconPath": "static/tabs/orders.png",
       "selectedIconPath": "static/tabs/orders-active.png"
     }
